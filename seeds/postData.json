@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Introduction to JavaScript",
+    "content": "JavaScript is a powerful programming language...",
+    "UserId": 1
+  },
+  {
+    "title": "Getting Started with React",
+    "content": "React is a popular JavaScript library for building user interfaces...",
+    "UserId": 2
+  },
+  {
+    "title": "Python vs. Ruby: A Comparison",
+    "content": "Python and Ruby are two popular programming languages...",
+    "UserId": 3
+  },
+  {
+    "title": "Web Development Best Practices",
+    "content": "Learn about the best practices for web development...",
+    "UserId": 1
+  }
+]

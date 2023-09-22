@@ -1,0 +1,14 @@
+[
+  {
+    "username": "john_doe",
+    "password": "hashed_password_here"
+  },
+  {
+    "username": "jane_smith",
+    "password": "hashed_password_here"
+  },
+  {
+    "username": "alice_johnson",
+    "password": "hashed_password_here"
+  }
+]
